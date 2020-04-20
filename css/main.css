@@ -522,4 +522,5 @@ nav a.current{
       max-width: 100%;
     }
 }
-  
+  .fas fa-microphone-alt{
+	  font-weight: 900;}
